@@ -1,0 +1,22 @@
+{
+  "name": "express-badminton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deanfirdianza/express-badminton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deanfirdianza/express-badminton/issues"
+  },
+  "homepage": "https://github.com/deanfirdianza/express-badminton#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
